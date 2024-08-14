@@ -198,6 +198,7 @@
 #define TFT_CS   5   // Chip select line for TFT display on Shield
 #define TFT_DC   14  // Data/command line for TFT on Shield
 #define TFT_RST  12  // Reset line for TFT is handled by seesaw!
+#define TFT_BL   27
 
 // ######       EDIT THE PINs BELOW TO SUIT YOUR ESP32 PARALLEL TFT SETUP ######
 
